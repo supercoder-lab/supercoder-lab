@@ -16,6 +16,8 @@
 </a> &nbsp;&nbsp;
 <p>
 
+  <br>
+  
  <p  align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?   user=mark123jesper&theme=dark&hide_border=true" />
@@ -32,9 +34,9 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>  
 
-<p align="center">
+<!-- <p align="center">
   <img align="center" src="https://github.com/BlockChainDev-a/BlockChainDev-a/blob/main/logo.png?raw=true" style = "width: -webkit-fill-available;"/>
-</p>
+</p> -->
 <h1 align="center">
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
   <a href="/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwork&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
