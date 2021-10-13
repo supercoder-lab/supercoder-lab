@@ -15,7 +15,23 @@
     <img align="center" alt="Rahul Dhanola | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
 </a> &nbsp;&nbsp;
 <p>
-  
+
+ <p  align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?   user=mark123jesper&theme=dark&hide_border=true" />
+  <br>  
+  <table border="0" align="center">
+    <tr border="0">
+      <td width="100%" align="center">  
+        <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=DHANOLA&theme=cobalt&show_icons=true&count_private=true" />
+        <br></br>  
+      </td>
+    </tr>
+  </table>
+  <br>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>  
+
 <p align="center">
   <img align="center" src="https://github.com/BlockChainDev-a/BlockChainDev-a/blob/main/logo.png?raw=true" style = "width: -webkit-fill-available;"/>
 </p>
