@@ -1,14 +1,14 @@
 <p align="center">
-<a href="https://join.skype.com/ONh3Ux1Da0f5" target="_blank">
+<a href="https://join.skype.com/OUlAujgLTt5b" target="_blank">
   <img align="center" alt="Rahul Dhanola | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://join.skype.com/ONh3Ux1Da0f5" target="_blank">
+<a href="https://join.skype.com/OUlAujgLTt5b" target="_blank">
   <img align="center" alt="Rahul Dhanola | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://join.skype.com/ONh3Ux1Da0f5" target="_blank">
+<a href="https://join.skype.com/OUlAujgLTt5b" target="_blank">
   <img align="center" alt="Rahul Dhanola | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://join.skype.com/ONh3Ux1Da0f5" >
+<a href="7.bremi.2@gmail.com" >
   <img align="center" alt="Rahul Dhanola | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://join.skype.com/ONh3Ux1Da0f5">
