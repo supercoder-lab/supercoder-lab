@@ -1,13 +1,4 @@
 <p align="center">
-<a href="https://join.skype.com/OUlAujgLTt5b" target="_blank">
-  <img align="center" alt="Rahul Dhanola | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://join.skype.com/OUlAujgLTt5b" target="_blank">
-  <img align="center" alt="Rahul Dhanola | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://join.skype.com/OUlAujgLTt5b" target="_blank">
-  <img align="center" alt="Rahul Dhanola | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-</a> &nbsp;&nbsp;
 <a href="7.bremi.2@gmail.com" >
   <img align="center" alt="Rahul Dhanola | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
@@ -50,8 +41,7 @@
 
 <img height="150px" />
 
-<br>
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥𝐬</h2>
 <table>
   <tr>
@@ -90,7 +80,8 @@
 
 <br>
 <br>
-## What I Specialized In
+
+<h2 font-weight="bold">What I Specialized In</h2>
 
 <div>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
