@@ -14,9 +14,9 @@
 
 Familiar with solidity/rust, smart contract, DAPP, NFT market place, NFT game, ICO, IDO events and mastered MERN, MEAN and LAMP stack web application, website development, Flutter mobile app development. 
 
-Working on this area for more than 15 years so far and I value my skills and time to the top. I can cooperate for your project's success and to archive yor idea.
+Working on this area for more than 15 years so far and I value my skills and time to the top. I can cooperate for your project's success and to archive your idea.
 
-Contact to me to discuss more.
+Contact me to discuss more.
 
  <div>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" />
