@@ -20,7 +20,7 @@
   
  <p  align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?   user=mark123jesper&theme=dark&hide_border=true" />
+  
   <br>  
   <table border="0" align="center">
     <tr border="0">
@@ -85,7 +85,7 @@
    </tr>
 </table>
 
-## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
+## What I Specialized In
 
 <div>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
