@@ -23,8 +23,11 @@ Contact to me to discuss more.
 </div>
     
 My email address:  7.bremi.2@gmail.com
+<br>
 skype id:  live:.cid.49458cb8e7ed06bf
+<br>
 Telegram:  @realworld_forward
+<br>
 Whatsapp:  +7 901 042 8113
 
 **Languages and Tools:**
