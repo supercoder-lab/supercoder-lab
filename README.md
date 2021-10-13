@@ -26,9 +26,9 @@
   <a href="https://join.skype.com/invite/yIEeTOr6CPJ2"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join&color=7289DA" alt="Join Badge"/></a>
 </h1>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ExpertBC.ExpertBC" />
-<img align="right" src="https://img.shields.io/github/followers/ExpertBC?label=Follow&style=social" />
+<img align="right" src="https://img.shields.io/github/followers/BlockChainDev-a?label=Follow&style=social" />
 <h1 align="center"></h1>
-<img align="left" height="300px" src="https://activity-graph.herokuapp.com/graph?username=ExpertBC&theme=github&count_private=true" />
+<img align="left" height="300px" src="https://activity-graph.herokuapp.com/graph?username=BlockChainDev-a&theme=github&count_private=true" />
 
 <img height="150px" />
 
@@ -72,13 +72,13 @@
 <div>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
  
-### DApps & Online Betting Website
+### NFT WebSite, NFT Game Development, Smart Contract, DAPP
 <br />
 
 ### Crypto Trading Platforms & Bots
 <br />
 
-### AR & VR Web and Mobile application
+### Web Application development, Android and iOS Application Development
 <br />
 
 ### Video Conference Web & Mobile application
