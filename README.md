@@ -50,6 +50,8 @@
 
 <img height="150px" />
 
+<br>
+<br>
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥𝐬</h2>
 <table>
   <tr>
@@ -85,6 +87,9 @@
    </tr>
 </table>
 
+
+<br>
+<br>
 ## What I Specialized In
 
 <div>
