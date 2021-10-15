@@ -39,14 +39,6 @@ Contact me to discuss more.
  <div>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" />
 </div>
-    
-My email address:  7.bremi.2@gmail.com
-<br>
-skype id:  live:.cid.49458cb8e7ed06bf
-<br>
-Telegram:  @realworld_forward
-<br>
-Whatsapp:  +7 901 042 8113
 
 **Languages and Tools:**
 
