@@ -40,7 +40,7 @@
     <tr>
         <td>
             <a href="https://mint.potatopower.club/">
-                <img src="https://github.com/BlockChainDev-a/Profile/tree/main/projects/PotatoPowerClub.png?raw=true" width="200">
+                <img src="https://github.com/BlockChainDev-a/Profile/blob/main/projects/PotatoPowerClub.png?raw=true" width="200">
             </a>
         </td>
         <td>
