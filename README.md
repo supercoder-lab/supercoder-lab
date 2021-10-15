@@ -1,8 +1,8 @@
 <p align='center'>
-<a href="https://t.me/kroim1202">
+<a href="https://t.me/realworld_forward">
   <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://join.skype.com/invite/eumi2mzscGm8">
+<a href="https://join.skype.com/HZKQER3BDBPk">
   <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://discord.gg/gGaQtGvk4m">
