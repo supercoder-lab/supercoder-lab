@@ -8,7 +8,7 @@
 <a href="https://discord.gg/Super29#9298">
   <img src="https://img.shields.io/badge/discord-%230077B5.svg?&style=for-the-badge&logo=discord&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="+7 901 042 8113 ">
+<a href="+79010428113 ">
   <img src="https://img.shields.io/badge/whatsapp-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="mailto:7.bremi.2@gmail.com">
