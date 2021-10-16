@@ -31,9 +31,7 @@
 <table>
     <thead align="center">
         <tr>
-            <td>PotatoPowerClue</td>
-            <td>CryptoPigs</td>           
-            <td>DogePass</td>
+            <td>CryptoPigs</td>        
             <td>FunkiFoxes</td>
         </tr>
     </thead>
