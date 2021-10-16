@@ -42,8 +42,7 @@
             <a href="https://cryptopigs.one/#/">
                 <img src="https://github.com/BlockChainDev-a/Profile/blob/main/projects/CryptoPig.png?raw=true" width="200">
             </a>
-        </td>           
-        
+        </td>       
         <td>
             <a href="https://funkifoxes.com/">
                 <img src="https://github.com/BlockChainDev-a/Profile/blob/main/projects/FunkiFoxes.png?raw=true" width="200">
