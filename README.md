@@ -33,6 +33,8 @@
         <tr>
             <td>CryptoPigs</td>        
             <td>FunkiFoxes</td>
+            <td>ChubbyBunny</td>
+            <td>GekoSave</td>
         </tr>
     </thead>
     <tr>
@@ -46,21 +48,7 @@
             <a href="https://funkifoxes.com/">
                 <img src="https://github.com/BlockChainDev-a/Profile/blob/main/projects/FunkiFoxes.png?raw=true" width="200">
             </a>
-        </td>             
-    </tr>
-    <thead align="center">
-        <tr>
-            <td>CryptoSwords</td>
-            <td>ChubbyBunny</td>
-            <td>GekoSave</td>
-        </tr>
-    </thead>
-    <tr>
-        <td>
-            <a href="https://crypto-swords.com/" target="_blank">
-                <img src="https://github.com/BlockChainDev-a/Profile/blob/main/projects/CryptoSwords.png?raw=true" width="200">
-            </a>
-        </td>   
+        </td>     
         <td>
             <a href="https://chubbybunnynft.com/" target="_blank">
                 <img src="https://github.com/BlockChainDev-a/Profile/blob/main/projects/ChubbyBunny1.png?raw=true" width="200">
@@ -70,8 +58,9 @@
             <a href="https://gekosave.io/" target="_blank">
                 <img src="https://github.com/BlockChainDev-a/Profile/blob/main/projects/GekoSave0.png?raw=true" width="200">
             </a>
-        </td>                     
-    </tr>   
+        </td> 
+    </tr>
+     
 </table>
 
 - NFT Marketplaces
