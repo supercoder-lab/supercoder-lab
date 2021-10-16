@@ -39,9 +39,7 @@
     </thead>
     <tr>
         <td>
-            <a href="https://cryptopigs.one/#/">
-                <img src="https://github.com/BlockChainDev-a/Profile/blob/main/projects/CryptoPig.png?raw=true" width="200">
-            </a>
+           <img src="https://github.com/BlockChainDev-a/Profile/blob/main/projects/CryptoPig.png?raw=true" width="200">
         </td>       
         <td>
             <a href="https://funkifoxes.com/">
