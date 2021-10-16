@@ -42,19 +42,13 @@
            <img src="https://github.com/BlockChainDev-a/Profile/blob/main/projects/CryptoPig.png?raw=true" width="200">
         </td>       
         <td>
-            <a href="https://funkifoxes.com/">
-                <img src="https://github.com/BlockChainDev-a/Profile/blob/main/projects/FunkiFoxes.png?raw=true" width="200">
-            </a>
+            <img src="https://github.com/BlockChainDev-a/Profile/blob/main/projects/FunkiFoxes.png?raw=true" width="200">
         </td>     
         <td>
-            <a href="https://chubbybunnynft.com/" target="_blank">
-                <img src="https://github.com/BlockChainDev-a/Profile/blob/main/projects/ChubbyBunny1.png?raw=true" width="200">
-            </a>
+            <img src="https://github.com/BlockChainDev-a/Profile/blob/main/projects/ChubbyBunny1.png?raw=true" width="200">
         </td>
         <td>
-            <a href="https://gekosave.io/" target="_blank">
-                <img src="https://github.com/BlockChainDev-a/Profile/blob/main/projects/GekoSave0.png?raw=true" width="200">
-            </a>
+            <img src="https://github.com/BlockChainDev-a/Profile/blob/main/projects/GekoSave0.png?raw=true" width="200">
         </td> 
     </tr>     
 </table>
@@ -71,24 +65,16 @@
     </thead>
     <tr>
         <td>
-            <a href="http://18.188.94.167:5000/">
-                <img src="https://github.com/BlockChainDev-a/Profile/blob/main/projects/igaratanft.png?raw=true" width="200">
-            </a>
+            <img src="https://github.com/BlockChainDev-a/Profile/blob/main/projects/igaratanft.png?raw=true" width="200">
         </td>        
         <td>
-            <a href="https://rabbitnft.com/">
-                <img src="https://github.com/BlockChainDev-a/Profile/blob/main/projects/rabbitnft.png?raw=true" width="200">
-            </a>
+            <img src="https://github.com/BlockChainDev-a/Profile/blob/main/projects/rabbitnft.png?raw=true" width="200">
         </td> 
         <td>
-            <a href="http://209.145.53.68:5000">
-                <img src="https://github.com/BlockChainDev-a/Profile/blob/main/projects/LunachowNFT.png?raw=true" width="200">
-            </a>
+            <img src="https://github.com/BlockChainDev-a/Profile/blob/main/projects/LunachowNFT.png?raw=true" width="200">
         </td> 
         <td>
-            <a href="https://gekosave.io/marketplace">
-                <img src="https://github.com/BlockChainDev-a/Profile/blob/main/projects/GekoSave1.png?raw=true" width="200">
-            </a>
+            <img src="https://github.com/BlockChainDev-a/Profile/blob/main/projects/GekoSave1.png?raw=true" width="200">
         </td>     
     </tr>
 </table>
@@ -104,19 +90,13 @@
     </thead>
     <tr>
         <td>
-            <a href="https://app.cosmicswap.finance/">
-                <img src="https://github.com/BlockChainDev-a/Profile/blob/main/projects/cosmicswap.png?raw=true" width="200">
-            </a>
+            <img src="https://github.com/BlockChainDev-a/Profile/blob/main/projects/cosmicswap.png?raw=true" width="200">
         </td>          
         <td>
-            <a href="http://analytics.ddexx.io">
-                <img src="https://github.com/BlockChainDev-a/Profile/blob/main/projects/ddexinfo.png?raw=true" width="200">
-            </a>
+            <img src="https://github.com/BlockChainDev-a/Profile/blob/main/projects/ddexinfo.png?raw=true" width="200">
         </td>   
         <td>
-            <a href="https://maticfront.web.app/farms">
-                <img src="https://github.com/BlockChainDev-a/Profile/blob/main/projects/maticswap.png?raw=true" width="200">
-            </a>
+            <img src="https://github.com/BlockChainDev-a/Profile/blob/main/projects/maticswap.png?raw=true" width="200">
         </td> 
     </tr>  
 </table>
