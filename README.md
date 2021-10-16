@@ -25,10 +25,9 @@
 </p> -->
 
 
-<br/>
-<br/>
-<br/>
+<br/><br/><br/>
 ### DeFi Experiences
+<br/>
 - NFT Mint Dapps
 <table>
     <thead align="center">
