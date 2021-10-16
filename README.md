@@ -39,20 +39,11 @@
     </thead>
     <tr>
         <td>
-            <a href="https://mint.potatopower.club/">
-                <img src="https://github.com/BlockChainDev-a/Profile/blob/main/projects/PotatoPowerClub.png?raw=true" width="200">
-            </a>
-        </td>
-        <td>
             <a href="https://cryptopigs.one/#/">
                 <img src="https://github.com/BlockChainDev-a/Profile/blob/main/projects/CryptoPig.png?raw=true" width="200">
             </a>
         </td>           
-        <td>
-            <a href="https://nft.dogepass.io/">
-                <img src="https://github.com/BlockChainDev-a/Profile/blob/main/projects/DogePass.png?raw=true" width="200">
-            </a>
-        </td>
+        
         <td>
             <a href="https://funkifoxes.com/">
                 <img src="https://github.com/BlockChainDev-a/Profile/blob/main/projects/FunkiFoxes.png?raw=true" width="200">
