@@ -111,9 +111,9 @@ I am a senior BlockChain | FullStack developer focusing on quality and optimizat
 
 Familiar with solidity/rust, smart contract, DAPP, NFT market place, NFT game, ICO, IDO events and mastered ASP.NET MVC, ASP.NET Core web application, Unity2D and 3D game development. 
 
-Working on this area for more than 15 years so far and I value my skills and time to the top. I can cooperate for your project's success and to archive your idea.
+Working in this area for more than 15 years so far and I value my skills and time to the top. I can cooperate with you for your project's success and to archive your idea.
 
-Contact me to discuss more.
+Contact me to discuss more on your project.
 
  <div>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" />
